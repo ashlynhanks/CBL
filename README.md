@@ -1,8 +1,8 @@
 # CBL
-## Fall 2022 - Spring 2023
+## Summer 2022 - Spring 2023
 This repo is for all notes, assignment, and other things from classes in the High Point University Communication and Business Leadership program
 
-### Summer Semester
+### Summer 2022
 - History of American Business with Conley
   - Final Grade: A
   - Course Type: Elective
@@ -16,7 +16,7 @@ This repo is for all notes, assignment, and other things from classes in the Hig
   - Recommend: No, take in person with a different professor (stec) if possible
   
   
-### Fall Semester
+### Fall 2022
 - Capstone 1 with McConnel
   - Final Grade: Pass
   - Course Type: Capstone
